@@ -11,6 +11,7 @@ This project collects **3 years of historical weather data for Cairo, Egypt** us
 4. [Data Description](#data-description)
 5. [How to Use](#how-to-use)
 6. [Next Steps](#next-steps)
+7. [Current Weather Data](#Current-Weather-Data)
 
 ---
 
