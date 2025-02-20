@@ -107,3 +107,26 @@ Feel free to contribute to this project by:
 - Adding more features to the dataset.
 - Improving the data preprocessing pipeline.
 - Enhancing the LSTM model for better predictions.
+
+## **Current Weather Data**
+To fetch **current weather data** for Cairo, use the following script. This script collects the same weather variables as the historical data but focuses on the **latest available data**.
+
+### **How to Use**
+1. **Install Dependencies**:
+   Ensure you have the required Python libraries installed:
+   ```bash
+   pip install openmeteo-requests requests-cache pandas retry-requests
+2. Run the Script:
+   Execute the script to fetch and save the current weather data:
+   python fetch_current_weather.py
+3. Output:
+   The script will generate a CSV file (cairo_current_weather.csv) containing the latest weather data.
+
+### **Contributing**
+Feel free to contribute to this project by:
+
+Adding more features to the dataset.
+
+Improving the data preprocessing pipeline.
+
+Enhancing the LSTM model for better predictions.
